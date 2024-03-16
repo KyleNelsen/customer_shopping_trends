@@ -107,5 +107,3 @@ GROUP BY
     Season
 ORDER BY
     RowNumber;
-
-View revenue over time
